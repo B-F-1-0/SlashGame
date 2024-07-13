@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlashGame", "SlashGame\SlashGame.csproj", "{F5B56E3D-1409-4DF1-9034-B95440112C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B56E3D-1409-4DF1-9034-B95440112C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B56E3D-1409-4DF1-9034-B95440112C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B56E3D-1409-4DF1-9034-B95440112C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B56E3D-1409-4DF1-9034-B95440112C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0AF8B3-F5F6-48B0-B201-EA8FA6808189}
+	EndGlobalSection
+EndGlobal
